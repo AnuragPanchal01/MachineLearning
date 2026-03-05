@@ -1,0 +1,8 @@
+Requirement already satisfied: numpy in ./myenv/lib/python3.13/site-packages (2.4.2)
+Requirement already satisfied: pandas in ./myenv/lib/python3.13/site-packages (3.0.1)
+Requirement already satisfied: matplotlib in ./myenv/lib/python3.13/site-packages (3.10.8)
+Requirement already satisfied: seaborn in ./myenv/lib/python3.13/site-packages (0.13.2)
+Collecting Tensorflow
+  Using cached tensorflow-2.20.0-cp313-cp313-macosx_12_0_arm64.whl.metadata (4.5 kB)
+Collecting keras
+  Using cached keras-3.13.2-py3-none-any.whl.metadata (6.3 kB)
